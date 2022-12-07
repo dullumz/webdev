@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(228, 201, 156);
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:visited {
+    color:purple;
+}
+h2{font-family: 'PT Serif', serif;
+    color:black;
+    text-decoration: underline
+}
+h3{font-family: 'PT Serif', serif;
+    font-weight: bold;
+    color:purple;
+}
+h4{font-family: 'PT Serif', serif;
+}
+li{font-family: 'PT Serif', serif;
+}
